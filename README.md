@@ -16,7 +16,7 @@ There are numerous open [issues](https://github.com/traccar/traccar-client-andro
 Clone this repository and report how functional your client is:
 
 * Android version
-* Phone brand/model
+* Phone brand and model (model can be get through `Settings > System > About phone`)
 * Traccar version and flavor
 * for different phone and application settings
 
